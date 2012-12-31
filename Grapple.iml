@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="Flex" version="4">
+  <component name="FlexBuildConfigurationManager" active="Grapple">
+    <configurations>
+      <configuration name="Grapple" target-platform="Mobile" pure-as="true" main-class="eu.proto.Main" output-file="Grapple.swf" output-folder="$MODULE_DIR$/out/production/grapple">
+        <dependencies target-player="11.5">
+          <entries>
+            <entry library-name="Swiftsuspenders-v2.0.0rc3stray1" library-level="project">
+              <dependency linkage="Merged" />
+            </entry>
+          </entries>
+          <sdk name="SDK" />
+        </dependencies>
+        <compiler-options />
+        <packaging-air-desktop />
+        <packaging-android enabled="true" use-generated-descriptor="false" custom-descriptor-path="$MODULE_DIR$/Grapple-app.xml" package-file-name="Graple" />
+        <packaging-ios package-file-name="Graple" />
+      </configuration>
+    </configurations>
+    <compiler-options />
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$USER_HOME$/Documents/GitHub/Starling-Extension-Parallax-Layer">
+      <sourceFolder url="file://$USER_HOME$/Documents/GitHub/Starling-Extension-Parallax-Layer/src" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/Documents/GitHub/Starling-Framework">
+      <sourceFolder url="file://$USER_HOME$/Documents/GitHub/Starling-Framework/starling/src" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/Documents/GitHub/SwiftSuspenders">
+      <sourceFolder url="file://$USER_HOME$/Documents/GitHub/SwiftSuspenders/src" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/Documents/GitHub/box2d">
+      <sourceFolder url="file://$USER_HOME$/Documents/GitHub/box2d/Source" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/Documents/GitHub/feathers">
+      <sourceFolder url="file://$USER_HOME$/Documents/GitHub/feathers/source" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/Documents/GitHub/robotlegs-framework">
+      <sourceFolder url="file://$USER_HOME$/Documents/GitHub/robotlegs-framework/src" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/Documents/GitHub/robotlegs-starling-plugin/src">
+      <sourceFolder url="file://$USER_HOME$/Documents/GitHub/robotlegs-starling-plugin/src" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="SDK" jdkType="Flex SDK Type (new)" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" name="Swiftsuspenders-v2.0.0rc3stray1" level="project" />
+  </component>
+</module>
+

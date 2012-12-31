@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="FenoFSM 1.0.31" type="flex">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/FenoFSM 1.0.31.swc!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

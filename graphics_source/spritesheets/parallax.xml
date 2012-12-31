@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:36c4e81ddd1658e86a643a746684fd39$ -->
+<TextureAtlas imagePath="parallax.png">
+    <SubTexture name="clouds" x="1024" y="0" width="1024" height="1024"/>
+    <SubTexture name="girder" x="1024" y="1024" width="1024" height="1020" frameX="0" frameY="-4" frameWidth="1024" frameHeight="1024"/>
+    <SubTexture name="glass_tube" x="0" y="1024" width="1024" height="1024"/>
+    <SubTexture name="sky" x="0" y="0" width="1024" height="1024"/>
+</TextureAtlas>

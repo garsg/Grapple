@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:e400f75214eb788930893b969f010743$ -->
+<TextureAtlas imagePath="droid.png">
+    <SubTexture name="Android_Robot" x="2" y="2" width="187" height="187"/>
+    <SubTexture name="link" x="191" y="2" width="60" height="10"/>
+</TextureAtlas>
